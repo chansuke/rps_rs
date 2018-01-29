@@ -1,0 +1,6 @@
+[package]
+name = "rps_rs"
+version = "0.1.0"
+authors = ["chansuke <chansuke@georepublic.de>"]
+
+[dependencies]
